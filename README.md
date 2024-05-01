@@ -1,4 +1,4 @@
-# ShuttleX_SS
+# Shuttle_X
 ShuttleX
 Our app will consist of three components:
 
